@@ -17,7 +17,7 @@ class Student {
         new Course("Math", 35),
         new Course("Java", 75),
         new Course("English", 30),
-       
+        new Course("Devops", 33)
     };
 
     void displayInfo() {
